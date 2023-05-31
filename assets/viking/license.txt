@@ -1,0 +1,11 @@
+Model Information:
+* title:	Viking Low Poly
+* source:	https://sketchfab.com/3d-models/viking-low-poly-576d53b3123b499b8b0df07e35d76b3c
+* author:	apolllo6 (https://sketchfab.com/apolllo6)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Viking Low Poly" (https://sketchfab.com/3d-models/viking-low-poly-576d53b3123b499b8b0df07e35d76b3c) by apolllo6 (https://sketchfab.com/apolllo6) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)

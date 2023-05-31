@@ -1,0 +1,23 @@
+{
+    "name": "icg-cidade",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "devDependencies": {
+      "@types/dat.gui": "^0.7.7",
+      "vite": "^4.2.0"
+    },
+    "dependencies": {
+      "dat.gui": "^0.7.9",
+      "three": "^0.151.3",
+      "three-dat.gui": "^2.0.7",
+      "three-gltf-loader": "^1.111.0",
+      "vert": "^0.2.1",
+      "yarn": "^1.22.19"
+    }
+  }

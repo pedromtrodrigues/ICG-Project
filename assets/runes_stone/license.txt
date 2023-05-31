@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rune's Stone
+* source:	https://sketchfab.com/3d-models/runes-stone-5a650aec439c4c308343a6a6e50f7f46
+* author:	chelloveco (https://sketchfab.com/chelloveco)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rune's Stone" (https://sketchfab.com/3d-models/runes-stone-5a650aec439c4c308343a6a6e50f7f46) by chelloveco (https://sketchfab.com/chelloveco) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
