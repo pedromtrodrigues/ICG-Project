@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bag with gold
+* source:	https://sketchfab.com/3d-models/bag-with-gold-4093e079967642b78d27d41cabc129c3
+* author:	jose.ranieri (https://sketchfab.com/jose.ranieri)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bag with gold" (https://sketchfab.com/3d-models/bag-with-gold-4093e079967642b78d27d41cabc129c3) by jose.ranieri (https://sketchfab.com/jose.ranieri) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

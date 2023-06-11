@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="author" content="Pedro Rodrigues">
+    <title>ICG Viking City </title>
+    <style>  
+        .progress-bar-container{
+            color:black;
+            position: absolute;
+            z-index: 100;
+            font-family: Arial;
+            background-image: url("/assets/sky-d654d4b3.jpeg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            font-weight: bold;
+            font-size: 2rem;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        } 
+
+        .follow-text{
+            top: 0%;
+            position: absolute;
+            z-index: 100;
+            border: 2px solid black;
+            background: white;
+            color: black;
+            font-family: Arial;
+            font-weight: bold;
+            font-size: 10px;
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+        }
+        .follow-text p{
+            text-align:center;
+        }
+        .loads {
+            color:white;
+            padding-top: 500px; 
+        }
+        .line {
+            display:inline;
+        }
+    </style>
+  <script type="module" crossorigin src="/assets/index-fc2a4e5c.js"></script>
+  <link rel="stylesheet" href="/assets/index-48a8825f.css">
+</head>
+
+<body>
+    <div id = "progress-bar-container" class="progress-bar-container">
+        <label class="loads">Loading...</label>
+        <progress id="progess-bar" value ="0" max="100"></progress>
+
+    </div>
+    <div id = "follow-text" class="follow-text" hidden>
+        <h2> ICG Viking City </h2>
+        <p> Press 'A' and 'D' key to rotate the boat!</p>
+        <p> Your goal is to find all the hidden gold pots! </p>
+        <p> Move the viking with <img top="100px" width="25px" src="/assets/all_keys-189f7d6d.jpg"></img></p>
+        <div class="line">
+            <p> Score: </p>
+            <p id="score"> </p>
+
+        </div>
+        <button id="myBtn"> Generate more gold ! </button>
+</div>
+    
+</body>
+</html>

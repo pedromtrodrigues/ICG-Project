@@ -1,0 +1,11 @@
+Model Information:
+* title:	Free to use - Low Poly Horse
+* source:	https://sketchfab.com/3d-models/free-to-use-low-poly-horse-527c570af430404ba8458d473db8cc20
+* author:	chi3dmodel (https://sketchfab.com/chi3dmodel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Free to use - Low Poly Horse" (https://sketchfab.com/3d-models/free-to-use-low-poly-horse-527c570af430404ba8458d473db8cc20) by chi3dmodel (https://sketchfab.com/chi3dmodel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
